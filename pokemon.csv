@@ -772,7 +772,7 @@ pokedex_number,generation,name,type,hp,attack,defense,sp_attack,sp_defense,speed
 771,7,Pyukumuku,water,55,60,130,30,130,5,410,60,0
 772,7,Type: Null,normal,95,95,95,95,95,59,534,3,0
 773,7,Silvally,normal,95,95,95,95,95,95,570,3,0
-774,7,Minior,rock,60,100,60,100,60,120,500,30 (Meteorite)255 (Core),0
+774,7,Minior,rock,60,100,60,100,60,120,500,30,0
 775,7,Komala,normal,65,115,65,75,95,65,480,45,0
 776,7,Turtonator,fire,60,78,135,91,85,36,485,70,0
 777,7,Togedemaru,electric,65,98,63,40,73,96,435,180,0
